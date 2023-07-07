@@ -6,7 +6,7 @@
 
 - :telescope: My deep interest in generative AI keeps me on the cutting edge of technological advancements.🚀</br>
 
--  🌴 In my free time, I do enjoy a cup of coffee, playing piano and being a movie buff.
+-  🌴 In my free time, I do enjoy a cup of coffee☕, playing piano🎹 and being a cinema buff🎬.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
