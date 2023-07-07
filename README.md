@@ -24,7 +24,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26px" align="left" height="26px"/>](https://nodejs.org/en/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px" align="left" height="26px"/>](https://git-scm.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26px" align="left" height="26px"/>](https://www.figma.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="260px" align="left" height="26px" />](https://nextjs.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="26px" align="left" height="26px" />](https://nextjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="26px" align="left" height="26px" />](https://webpack.js.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="26px" align="left" height="26px" />](https://wordpress.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" width="26px" align="left" height="26px" />](https://wordpress.com/)
