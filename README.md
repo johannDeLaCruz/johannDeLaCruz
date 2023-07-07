@@ -8,7 +8,7 @@
 
 - 🌴 In my free time, I do enjoy a cup of coffee☕, playing piano🎹 and being a cinema buff🎬.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
 ### Languages and Tools 🛠:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  align="left" height="26px" width="26px"/>][html]
