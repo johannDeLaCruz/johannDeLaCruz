@@ -2,9 +2,9 @@
 ## **<strong> Full Stack Web Developer | React Native | MERN Stack </strong>**</br>
 
 👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. </br>
-- :zap: With a focus on modern web design and a love for exploring new technologies, I strive to create visually stunning and innovative solutions.</br>
+- :zap: With a focus on modern web design and a love for cutting edge tech, I strive to create visually stunning and innovative solutions.</br>
 
-- 🚀 My deep interest in generative AI keeps me on the cutting edge of technological advancements.</br>
+- 🚀 I'm totally obsessed with generative AI and new technologies.</br>
 
 - 🌴 In my free time, I do enjoy a cup of coffee☕, playing piano🎹 and being a cinema buff🎬.
 
