@@ -18,17 +18,18 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="26px" align="left" height="26px" />][redux]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="26px" align="left" height="26px" />][saas]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="26px" align="left" height="26px" />][tailwind]
+[<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="26px" align="left" height="26px" />](https://getbootstrap.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="26px" align="left" height="26px" />][firebase]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26px" align="left" height="26px" />](https://www.mongodb.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26px" align="left" height="26px"/>](https://expressjs.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26px" align="left" height="26px"/>](https://nodejs.org/en/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px" align="left" height="26px"/>](https://git-scm.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26px" align="left" height="26px"/>](https://www.figma.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="26px" align="left" height="26px" />](https://nextjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="26px" align="left" height="26px" />](https://webpack.js.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="26px" align="left" height="26px" />](https://wordpress.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" width="26px" align="left" height="26px" />](https://wordpress.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="26px" align="left" height="26px" />](https://wordpress.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" width="26px" align="left" height="26px" />](https://heroku.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26px" align="left" height="26px"/>](https://expressjs.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="26px" align="left" height="26px" />](https://nextjs.org/)
+
 
 
 
