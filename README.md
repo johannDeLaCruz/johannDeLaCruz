@@ -1,5 +1,5 @@
-<strong>Johann De La Cruz </strong></br>
-<strong> Full Stack Web Developer | React Native | MERN Stack </strong>
+## **<strong>Johann De La Cruz </strong>** </br>
+## **<strong> Full Stack Web Developer | React Native | MERN Stack </strong>**</br>
 
 👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. </br>
 - :zap: With a focus on modern web design and a love for exploring new technologies, I strive to create visually stunning and innovative solutions.</br>
