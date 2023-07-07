@@ -4,9 +4,9 @@
 👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. </br>
 - :zap: With a focus on modern web design and a love for exploring new technologies, I strive to create visually stunning and innovative solutions.</br>
 
-- :telescope: My deep interest in generative AI keeps me on the cutting edge of technological advancements.🚀</br>
+- 🚀 My deep interest in generative AI keeps me on the cutting edge of technological advancements.</br>
 
--  🌴 In my free time, I do enjoy a cup of coffee☕, playing piano🎹 and being a cinema buff🎬.
+- 🌴 In my free time, I do enjoy a cup of coffee☕, playing piano🎹 and being a cinema buff🎬.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
