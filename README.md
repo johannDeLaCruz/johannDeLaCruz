@@ -1,5 +1,5 @@
 ## **<strong>Johann De La Cruz </strong>** </br>
-## **<strong> Full Stack Web Developer | React Native | MERN Stack </strong>**</br>
+## **<strong> Full Stack Web Developer | MERN Stack | React Native </strong>**</br>
 
 👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. </br>
 - :zap: With a focus on modern web design and a love for cutting edge tech, I strive to create visually stunning and innovative solutions.</br>
@@ -43,10 +43,10 @@
 ### My Stats :fire:: </br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johannDeLaCruz&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-
+---
+### Contact Me 📞:
 🌐 Portfolio: www.johanndelacruz.com </br>
 📧 Email: joahnn.de.lacruz2023@gmail.com </br>
-📞 Phone: +1 (123) 456-7890 </br>
 
 [website]: https://www.johanndelacruz.com
 [twitter]: https://twitter.com/johann.de.la.cruz2023
