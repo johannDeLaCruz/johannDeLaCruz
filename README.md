@@ -29,6 +29,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="26px" align="left" height="26px" />](https://webpack.js.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="26px" align="left" height="26px" />](https://wordpress.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" width="26px" align="left" height="26px" />](https://heroku.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="26px" align="left" height="26px" />](https://npmjs.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26px" align="left" height="26px"/>](https://expressjs.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="26px" align="left" height="26px" />](https://nextjs.org/)
 
@@ -62,7 +63,7 @@
 [tailwind]: https://tailwindcss.com/
 [redux]: https://redux.js.org/
 [firebase]: https://firebase.google.com/
-[course]: https://sigma-rules.netlify.app/
+
 <!---
 johannDeLaCruz/johannDeLaCruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
