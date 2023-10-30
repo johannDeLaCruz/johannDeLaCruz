@@ -13,9 +13,9 @@
 
 ---
 ### Languages and Tools 🛠:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  align="left" height="26px" width="26px"/>][html]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" align="left" height="26px"  />][css3]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26px" width="26px" align="left"  />][js] 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  align="left" height="26px" width="26px" margin="8px"/>][html]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" align="left" height="26px"  margin="8px" />][css3]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26px" width="26px" align="left"  margin="8px" />][js] 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" align="left" height="26px" />][react]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="26px" align="left" height="26px" />][redux]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="26px" align="left" height="26px" />][saas]
@@ -33,7 +33,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26px" align="left" height="26px"/>](https://expressjs.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="26px" align="left" height="26px" />](https://nextjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="26px" align="left" height="26px" />](https://nodejs.org/en/)
-<br />
 [<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="26px" align="left" height="26px" />](https://redis.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="26px" align="left" height="26px" />](https://code.visualstudio.com)
 
