@@ -34,8 +34,6 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="26px" align="left" height="26px" />](https://nextjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="26px" align="left" height="26px" />](https://nodejs.org/en/)
 <br />
-<br />
-<br />
 [<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="26px" align="left" height="26px" />](https://redis.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="26px" align="left" height="26px" />](https://code.visualstudio.com)
 
