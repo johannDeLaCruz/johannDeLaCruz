@@ -1,14 +1,18 @@
 ## **<strong>Johann De La Cruz </strong>** </br>
 ## **<strong> Full Stack Web Developer | MERN Stack | React Native </strong>**</br>
 
-👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. </br>
-- :zap: With a focus on modern web design and a love for cutting edge tech, I strive to create visually stunning and innovative solutions.</br>
+👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. A fast learner and a geek. </br>
+- 🔭 I’m currently working with **modern web design using cutting edge tech. I strive to create visually appealing and innovative solutions.**
 
-- 🚀 I'm totally obsessed with generative AI and new technologies.</br>
+- 🚀 I’m currently learning **new generative AI tech and totally obsessed by it.**
+
+- 👯 I’m looking to collaborate on **interesting and promising projects.**
+
+- 👨‍💻 All of my projects are available at [johanndelacruz](johanndelacruz)
+
+- 📫 How to reach me **johann.de.la.cruz2023@gmail.com**
 
 - 🌴 In my free time, I do enjoy a cup of coffee☕, playing piano🎹 and being a cinema buff🎬.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 ---
