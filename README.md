@@ -4,9 +4,9 @@
 👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. A fast learner and a geek. </br>
 - 🔭 I’m currently working with **modern web design using cutting edge tech. I strive to create visually appealing and innovative solutions.**
 
-- 🚀 I’m currently learning **new generative AI tech and totally obsessed by it.**
+- 🚀 I’m currently learning **generative AI technology and totally obsessed by it.**
 
-- 👯 I’m looking to collaborate on **interesting and promising projects.**
+- 👯 I’m looking to collaborate on **cool and exciting projects.**
 
 - 👨‍💻 All of my projects are available at [johanndelacruz](johanndelacruz)
 
