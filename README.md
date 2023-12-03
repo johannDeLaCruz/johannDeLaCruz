@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently learning **generative AI technology and totally obsessed by it.**
 
-- 👯 I’m looking to collaborate on **cool and exciting projects.**
+- 👯 I’m looking to collaborate on **interesting and exciting projects.**
 
 - 👨‍💻 All of my projects are available at [johanndelacruz](johanndelacruz)
 
