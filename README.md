@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **interesting and exciting projects.**
 
-- 👨‍💻 All of my projects are available at [johanndelacruz](johanndelacruz)
+- 👨‍💻 All of my projects are available at [johanndelacruz](www.johanndelacruz.dev)
 
 - 📫 How to reach me **johann.de.la.cruz2023@gmail.com**
 
@@ -52,8 +52,8 @@
 
 ---
 ### Contact Me 📞:
-🌐 Portfolio: www.johanndelacruz.com </br>
-📧 Email: joahnn.de.lacruz2023@gmail.com </br>
+🌐 Portfolio: www.johanndelacruz.dev </br>
+📧 Email: johann.de.lacruz2023@gmail.com </br>
 
 [website]: https://www.johanndelacruz.com
 [twitter]: https://twitter.com/johann.de.la.cruz2023
