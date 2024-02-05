@@ -1,76 +1,90 @@
-## **<strong>Johann De La Cruz </strong>** </br>
-## **<strong> Full Stack Web Developer | Next.js | MERN Stack | React Native </strong>**</br>
+## Hi there, I'm <strong>Johann</strong>! 👋
 
-👋Hi there! I'm [Johann][website], a passionate full stack web developer based in Brazil. A fast learner and a geek. </br>
-- 🔭 I’m currently working with **modern web design using cutting edge tech. I strive to create visually appealing and innovative solutions.**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🚀 I’m currently learning **generative AI technology and totally obsessed by it.**
+<p align="left"> 
+I'm a passionate <strong>full stack web developer</strong>, a fast learner and a geek. 
 
-- 👯 I’m looking to collaborate on **interesting and exciting projects.**
-
-- 👨‍💻 All of my projects are available at [johanndelacruz](www.johanndelacruz.dev)
-
-- 📫 How to reach me **johann.de.la.cruz2023@gmail.com**
-
-- 🌴 In my free time, I do enjoy a cup of coffee☕, playing piano🎹 and being a cinema buff🎬.
-
----
-### Languages and Tools 🛠:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  align="left" height="26px" width="26px" />][html]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" align="left" height="26px" />][css3]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26px" width="26px" align="left" />][js] 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" align="left" height="26px" />][react]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="26px" align="left" height="26px" />][redux]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="26px" align="left" height="26px" />][saas]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="26px" align="left" height="26px" />][tailwind]
-[<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="26px" align="left" height="26px" />](https://getbootstrap.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="26px" align="left" height="26px" />][firebase]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26px" align="left" height="26px" />](https://www.mongodb.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26px" align="left" height="26px"/>](https://nodejs.org/en/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px" align="left" height="26px"/>](https://git-scm.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26px" align="left" height="26px"/>](https://www.figma.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="26px" align="left" height="26px" />](https://webpack.js.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="26px" align="left" height="26px" />](https://wordpress.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="26px" align="left" height="26px" />](https://eslint.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="26px" align="left" height="26px" />](https://npmjs.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26px" align="left" height="26px"/>](https://expressjs.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" width="26px" align="left" height="26px" />](https://nextjs.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="26px" align="left" height="26px" />](https://nodejs.org/en/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="26px" align="left" height="26px" />](https://redis.io/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="26px" align="left" height="26px" />](https://code.visualstudio.com)
+I’m currently working with modern web design and strive to create visually appealing and innovative solutions. Check out some of my best work here >>> [johanndelacruz.dev](www.johanndelacruz.dev)
+👯If you need my services or want to <strong>connect, share or collaborate,</strong> I'm always open to new exciting projects!
 
 
+<h2 align="left">
+ 🛠 Tech Used & Skills:
+</h2>
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
+<p align="left">
+  💌 Feel free to contact me: ⤵️
+</p>
 
-<br />
-<br />
+<a href="https://www.linkedin.com/in/johann-d-l-cruz/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
----
-### My Stats :fire:: </br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johannDeLaCruz&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://wa.me/+5561983799619" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
----
-### Contact Me 📞:
-🌐 Portfolio: www.johanndelacruz.dev </br>
-📧 Email: johann.de.lacruz2023@gmail.com </br>
+<a href="https://www.instagram.com/johann.de.la.cruz/" title="Instagram" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<br>
+<br>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=johanndelacruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanndelacruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=johanndelacruz&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
 
-[website]: https://www.johanndelacruz.com
-[twitter]: https://twitter.com/johann.de.la.cruz2023
-[instagram]: https://instagram.com/tarunfy
-[vscode]: https://code.visualstudio.com/download
-[html]: https://html.com/
-[css3]: https://www.w3schools.com/css/
-[nodejs]: https://nodejs.org/en/
-[saas]: https://sass-lang.com/
-[js]: https://www.javascript.com/
-[react]: https://reactjs.org/
-[git]: https://git-scm.com/
-[tailwind]: https://tailwindcss.com/
-[redux]: https://redux.js.org/
-[firebase]: https://firebase.google.com/
+<br>
 
-<!---
-johannDeLaCruz/johannDeLaCruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="trophies"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=johanndelacruz&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/johanndelacruz/count.svg"
+    alt="profile-visitors"
+  />
+</p>
