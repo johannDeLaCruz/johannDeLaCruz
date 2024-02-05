@@ -6,7 +6,7 @@
 I'm a passionate <strong>full stack web developer</strong>, a fast learner and a geek. 
 
 I’m currently working with modern web design and strive to create visually appealing and innovative solutions. Check out some of my best work here: <a href="https://www.johanndelacruz.dev/" title="LinkedIn" target="_blank">johanndelacruz.dev</a>
-👯If you need my services or want to <strong>connect, share or collaborate,</strong> I'm always open to new exciting projects!
+If you need my services or want to <strong>connect, share or collaborate,</strong> I'm always open to new exciting projects!
 
 
 <h2 align="left">
